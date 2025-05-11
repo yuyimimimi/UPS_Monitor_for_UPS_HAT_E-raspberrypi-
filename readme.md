@@ -5,5 +5,4 @@ Use the following command to start the UPS monitoring script with superuser priv
 ```bash
 sudo python3 ups_monitor.py
 
-
-![Uploading 屏幕截图 2025-05-11 100939.png…]()
+<img width="570" alt="屏幕截图 2025-05-11 100939" src="https://github.com/user-attachments/assets/41d9a4d4-8f65-4a71-a55e-97acae583aeb" />
