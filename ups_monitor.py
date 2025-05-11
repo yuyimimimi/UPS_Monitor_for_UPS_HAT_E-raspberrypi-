@@ -179,9 +179,9 @@ def make_layout() -> Layout:
     )
 
     layout["body"].split_column(
-        Layout(name="power", ratio=1),
-        Layout(name="battery", ratio=2),
-        Layout(name="cells", ratio=1)
+        Layout(name="power", ratio=6),
+        Layout(name="battery", ratio=11),
+        Layout(name="cells", ratio=7)
     )
 
     return layout
